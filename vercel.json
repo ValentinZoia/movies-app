@@ -1,0 +1,21 @@
+{
+    "rewrites": [
+      {
+        "source": "/movie/:id",
+        "destination": "/index.html"
+      },
+      {
+        "source": "/search",
+        "destination": "/index.html"
+      },
+      {
+        "source": "/watchlist",
+        "destination": "/index.html"
+      },
+      {
+        "source": "/watched",
+        "destination": "/index.html"
+      }
+    ]
+  }
+  

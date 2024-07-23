@@ -1,0 +1,4 @@
+/movie/*    /index.html   200
+/search     /index.html   200
+/watchlist  /index.html   200
+/watched    /index.html   200
