@@ -2,7 +2,7 @@
 <div align="center">
 
 # VZ MOVIES  
-*Imdb API*  
+*Tmdb API*  
 *si tenes ganas de usar la api acá esta su documentación [TMDB API](https://developer.themoviedb.org/reference/intro/getting-started)*
 </div>
 
