@@ -2,7 +2,10 @@
 <div align="center">
 <img src='./src/assets/logo.webp' width='60px' />
   
-# 🍿 VZ MOVIES  
+# 🍿 VZ MOVIES 
+<img src="https://skills.syvixor.com/api/icons?i=typescript,reactjs,tailwindcss,vite" > 
+   <br>
+   
 *Tmdb API*  
 *si tenes ganas de usar la api acá esta su documentación [TMDB API](https://developer.themoviedb.org/reference/intro/getting-started)*
 </div>
