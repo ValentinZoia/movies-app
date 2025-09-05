@@ -1,7 +1,8 @@
 
 <div align="center">
-
-# VZ MOVIES  
+<img src='./src/assets/logo.webp' width='60px' />
+  
+# 🍿 VZ MOVIES  
 *Tmdb API*  
 *si tenes ganas de usar la api acá esta su documentación [TMDB API](https://developer.themoviedb.org/reference/intro/getting-started)*
 </div>
